@@ -22,7 +22,7 @@ jobs:
 
           DATE="$(date +%Y%m%d)"
           SHORT_SHA="$(git rev-parse --short HEAD)"
-          BUNDLE_NAME="node-problem-detector-bundle-${DATE}-${SHORT_SHA}.bundle"
+          BUNDLE_NAME="AgentENV-bundle-${DATE}-${SHORT_SHA}.bundle"
           TAG_NAME="bundle/${DATE}-${SHORT_SHA}"
 
           git bundle create "$BUNDLE_NAME" --all
