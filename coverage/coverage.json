@@ -1,0 +1,25 @@
+{
+  "branches": {
+    "coverage": "-",
+    "missed": 0,
+    "total": 0
+  },
+  "functions": {
+    "coverage": "73.44%",
+    "missed": 1364,
+    "total": 5135
+  },
+  "generated_at": "2026-08-19T03:59:13Z",
+  "lines": {
+    "coverage": "77.71%",
+    "missed": 9497,
+    "total": 42611
+  },
+  "package": "workspace",
+  "regions": {
+    "coverage": "76.88%",
+    "missed": 13870,
+    "total": 60000
+  },
+  "run_url": "https://github.com/bcfre/AgentENV/actions/runs/32212179873"
+}
